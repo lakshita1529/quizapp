@@ -1,0 +1,77 @@
+/* Score.css */
+
+.score-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    height: 100vh;
+    box-sizing: border-box;
+  }
+  
+  .score-box {
+    background-color: #2d4661;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+    color: white;
+  }
+  
+  .thankyou-box {
+   color: green;/* Green background color */
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+
+  }
+  
+  .score-title {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .score-result {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .feedback {
+    font-size: 1em;
+    margin-bottom: 20px;
+  }
+  
+  .score-controls {
+    margin-top: 30px;
+  }
+  
+  .score-controls button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: #0d0a2f;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .score-controls button:hover {
+    background-color: #e7ef51;
+  }
+  
+  @media (max-width: 600px) {
+    .score-box {
+      padding: 20px;
+    }
+  }
+  

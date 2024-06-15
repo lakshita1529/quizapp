@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Central Processor Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which of the following is a programming language?",
+    "options": ["HTTP", "HTML", "Java", "FTP"],
+    "answer": "Java"
+  },
+  {
+    "question": "What does RAM stand for?",
+    "options": ["Random Access Memory", "Read Access Memory", "Run Access Memory", "Randomly Accessed Memory"],
+    "answer": "Random Access Memory"
+  },
+  {
+    "question": "What is the main function of an operating system?",
+    "options": ["To provide a platform for applications to run", "To store data", "To connect to the internet", "To run scripts"],
+    "answer": "To provide a platform for applications to run"
+  },
+  {
+    "question": "Which data structure uses LIFO (Last In, First Out)?",
+    "options": ["Queue", "Array", "Linked List", "Stack"],
+    "answer": "Stack"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Sequential Query Language", "Simple Query Language", "Structured Question Language"],
+    "answer": "Structured Query Language"
+  },
+  {
+    "question": "What is the purpose of an IP address?",
+    "options": ["To store data", "To send emails", "To uniquely identify devices on a network", "To host websites"],
+    "answer": "To uniquely identify devices on a network"
+  },
+  {
+    "question": "Which of the following is NOT an operating system?",
+    "options": ["Windows", "Linux", "Oracle", "MacOS"],
+    "answer": "Oracle"
+  },
+  {
+    "question": "Which sorting algorithm has the best average-case complexity?",
+    "options": ["Bubble Sort", "Selection Sort", "Merge Sort", "Insertion Sort"],
+    "answer": "Merge Sort"
+  },
+  {
+    "question": "What is the main purpose of DNS in networking?",
+    "options": ["To store data", "To translate domain names to IP addresses", "To route data packets", "To encrypt data"],
+    "answer": "To translate domain names to IP addresses"
+  }
+]
